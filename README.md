@@ -1,10 +1,12 @@
 # anekos
 
-A Leiningen template for FIXME.
+A Leiningen template for me
 
 ## Usage
 
-FIXME
+```
+le$ in new anekos new-project-name
+```
 
 ## License
 
